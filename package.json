@@ -1,0 +1,23 @@
+{
+  "name": "skills-create-applications-with-the-copilot-cli-ks",
+  "version": "1.0.0",
+  "description": "<img src=\"https://octodex.github.com/images/Professortocat_v2.png\" align=\"right\" height=\"200px\" />",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --colors --runInBand"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keerthans207/skills-create-applications-with-the-copilot-cli-ks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keerthans207/skills-create-applications-with-the-copilot-cli-ks/issues"
+  },
+  "homepage": "https://github.com/keerthans207/skills-create-applications-with-the-copilot-cli-ks#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
